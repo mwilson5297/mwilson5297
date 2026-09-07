@@ -1,44 +1,30 @@
 # Michael Wilson
 
-### Aspiring Network Engineer | CCNA Candidate | Cisco Networking | Python Automation
+I'm currently studying networking and working toward the CCNA. I made this GitHub to keep track of the labs and small projects I'm building while I learn.
 
-I am building a career in networking and infrastructure with a focus on practical configuration, troubleshooting, and network automation. My portfolio documents hands-on Cisco lab work, structured troubleshooting exercises, and Python tools designed around common network operations tasks.
+Most of my recent work has been with Cisco Packet Tracer: VLANs, trunking, inter-VLAN routing, STP, OSPF, ACLs, DHCP, and general troubleshooting. I'm also starting to learn Python for network automation.
 
-## Technical Focus
-
-- **Networking:** TCP/IP, IPv4/IPv6, subnetting, VLANs, 802.1Q trunks, inter-VLAN routing
-- **Routing & Switching:** STP/RSTP, EtherChannel concepts, static routing, OSPF, FHRP/HSRP
-- **Network Services:** DHCP, DNS, NTP, SNMP, CDP/LLDP
-- **Security:** Standard and extended ACLs, switch-port security concepts
-- **Tools:** Cisco IOS, Cisco Packet Tracer, Wireshark, Git/GitHub
-- **Automation:** Python, Netmiko, structured device inventories
-
-## Featured Projects
+## Projects
 
 ### [CCNA Networking Labs](https://github.com/mwilson5297/ccna-networking-labs)
-Hands-on Cisco labs with topology goals, configurations, verification commands, and explanations of why each technology works.
+Cisco labs I'm documenting as I work through CCNA topics. I include the configs, verification commands, and notes on what I learned.
 
-### [Network Troubleshooting Labs](https://github.com/mwilson5297/troubleshooting-labs-networking)
-Fault-isolation scenarios that follow a repeatable troubleshooting process: symptoms, hypotheses, verification, root cause, remediation, and validation.
+### [Networking Troubleshooting Labs](https://github.com/mwilson5297/troubleshooting-labs-networking)
+Practice scenarios where I intentionally break part of a lab, troubleshoot it, and document how I found the problem.
 
 ### [Network Automation with Python](https://github.com/mwilson5297/network-automation-python)
-Small Python utilities for connecting to network devices, collecting operational data, and backing up configurations.
+A few beginner Python scripts for connecting to Cisco devices, collecting show-command output, and backing up configurations.
 
-## What I Am Working Toward
+## What I'm working on
 
-- Cisco CCNA certification
-- Entry-level Network Operations Center (NOC), network support, or junior network engineering opportunities
-- Stronger Python and network automation skills
-- Deeper Linux, cloud networking, and infrastructure knowledge
+- CCNA exam prep
+- Getting faster at troubleshooting from Cisco IOS output
+- Building more Packet Tracer labs from memory instead of following walkthroughs
+- Learning Python and Netmiko
+- Getting more comfortable with Git and GitHub
 
-## How I Approach Technical Problems
+## Networking topics I've been practicing
 
-1. Establish the expected behavior.
-2. Gather evidence with show commands and packet-level observations.
-3. Isolate the failing layer or component.
-4. Make the smallest justified change.
-5. Verify end-to-end connectivity and document the root cause.
+`IPv4` `IPv6` `Subnetting` `VLANs` `802.1Q` `STP/RSTP` `Static Routing` `OSPF` `HSRP` `DHCP` `ACLs` `CDP/LLDP` `NTP` `DNS` `SNMP`
 
----
-
-**GitHub:** [mwilson5297](https://github.com/mwilson5297)
+I'm interested in entry-level NOC, network support, and junior networking roles where I can keep building hands-on experience.
